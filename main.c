@@ -6,7 +6,6 @@
 #include <linux/fb.h>
 #include <sys/mman.h>
 
-#include <bcm_host.h>
 
 int process() {
     DISPMANX_DISPLAY_HANDLE_T display;
